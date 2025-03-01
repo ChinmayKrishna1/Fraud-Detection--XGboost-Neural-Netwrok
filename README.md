@@ -82,7 +82,7 @@ jupyter notebook Credit_Card_Fraud.ipynb
 ---
 
 ## 👨‍💻 **Contributors**
-- **[Your Name]** ([@YourGitHubHandle](https://github.com/YourGitHubHandle))
+- **[Chinmay Krishna]** ([@YourGitHubHandle](https://github.com/ChinmayKrishna1))
 - **Open to Contributions!**
 
 ---
